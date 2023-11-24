@@ -1,0 +1,18 @@
+                        Assignment _1
+
+ans-1  there is no physical significant of o and 1 in computer
+       they are just representation of two state in hardware.
+
+
+ans-2  the full form of IDE is integrated development envivonment
+
+ans-3  A code editor is another name for a source-code editor. It's a text editor that    includes the ability to edit code that provides features for supporting software development. 
+
+ans-4  There are many compilers for C, like vs code 
+       many IDEs liks devc++,code::blocks,MinGw and many more.
+
+ans-5 
+      A-  latest version of C language is c17
+      B-  dennis ritchie
+      C-  System software provides a platform for other software to run, while application     software performs specific tasks for the user
+      D- One of the methods to convert decimal to binary is by dividing the given decimal number recursively by 2. Then, the remainders are noted down till we get 0 as the final quotient. After this step, these remainders are written in reverse order to get the binary value of the given decimal number
