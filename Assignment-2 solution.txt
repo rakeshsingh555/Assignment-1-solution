@@ -1,0 +1,25 @@
+                                     solution
+
+
+ans-1   real constants
+        4.5,3.0,-0.0
+
+ans-2   Not keyword(super,this,is,define,dynamic)
+
+ans-3   variable name is any combination of alphabets, digits,underscore(_)
+        No other symbol is allowed
+        valid variable name can't start from a digits
+
+ans-4   Yes, but it has to be scoped. 
+
+ans-5   keywords are defined in the compiler and their meanings cannot be changed.
+
+ans-6   Variables are usually stored in Ram.
+
+ans-7   Dennis Ritchie 
+
+ans-8   1972
+
+ans-9   Unix was one of the first operating systems to be written in the C language.
+
+ans-10  C language is a high level programming language.
