@@ -1,0 +1,22 @@
+                                     solution 
+
+
+ans-1   Primitive data types are the most basic data types that are used for representing simple values such as integers, float, characters, etc.
+
+ans-2   Global variables are declared outside of any function, ordinarily at the very beginning of the file. The scope of global variables is from the point of declaration down to the end of the file.
+
+ans-3   4 bytes
+
+ans-4   The value in an uninitialized variable can be anything – it is unpredictable, and may be different every time the program is run.
+
+ans-5    Both data types represent numbers with decimals, but a float is 32 bits in size while a double is 64 bits.
+
+ans-6    The full form of ASCII is the American Standard Code for Information Interchange.
+
+ans-7    A function is a set of instructions that are to be executed when the function is called. A keyword has predefined meaning in the compiler. 
+
+ans-8    modify the meaning of fundamental data types. It indicates how much memory will be allocated to a variable.
+
+ans-9    You can. In C character constant is of type int
+
+ans-10   yes
